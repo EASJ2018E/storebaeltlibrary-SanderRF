@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TicketLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:TicketLibrary.Vehicles.Price">
+            <summary>
+            The Method is a double which returns price for a ticket
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TicketLibrary.Vehicles.Vehicle">
+            <summary>
+            The Method is a string which returns what type of vehicle it is
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TicketLibrary.Vehicles.DiscountPrice">
+            <summary>
+            The method is a double which returns price with 5% discount
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
